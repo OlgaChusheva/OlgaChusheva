@@ -3,7 +3,9 @@
 # Меня зовут Ольга
 
 IOS разработчик
+
 tg: @olya_chusheva
+
 email: chusheva.olya@yandex.ru
 
 # Cтек
@@ -18,10 +20,10 @@ Xcode, Figma, Source tree, Github, Postman
 
 # Мои проекты
 
-"FakeNFT" покупка NFT - [open]
-"TrackerApp" трекер привычек - [open](https://github.com/OlgaChusheva/Tracker.git)
-"ImageFeed" просмотр изображений через API Unsplash - [open](https://github.com/OlgaChusheva/imageFeed.git)
-"MovieQuiz-ios" квиз о фильмах из рейтинга IMDb - [open](https://github.com/OlgaChusheva/MovieQuiz-ios.git)
+- "FakeNFT" покупка NFT - [open]
+- "TrackerApp" трекер привычек - [open](https://github.com/OlgaChusheva/Tracker.git)
+- "ImageFeed" просмотр изображений через API Unsplash - [open](https://github.com/OlgaChusheva/imageFeed.git)
+- "MovieQuiz-ios" квиз о фильмах из рейтинга IMDb - [open](https://github.com/OlgaChusheva/MovieQuiz-ios.git)
 
 <!--
 **OlgaChusheva/OlgaChusheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
