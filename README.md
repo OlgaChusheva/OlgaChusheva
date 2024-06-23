@@ -6,7 +6,7 @@ IOS разработчик
 
 tg: @olya_chusheva
 
-email: chusheva.olya@yandex.ru
+
 
 # Cтек
 
