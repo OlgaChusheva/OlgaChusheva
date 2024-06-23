@@ -20,7 +20,7 @@ Xcode, Figma, Source tree, Github, Postman
 
 # Мои проекты
 
-- "FakeNFT" покупка NFT - [open]
+- "FakeNFT" покупка NFT - [open](https://github.com/OlgaChusheva/FakeNFT.git)
 - "TrackerApp" трекер привычек - [open](https://github.com/OlgaChusheva/Tracker.git)
 - "ImageFeed" просмотр изображений через API Unsplash - [open](https://github.com/OlgaChusheva/imageFeed.git)
 - "MovieQuiz-ios" квиз о фильмах из рейтинга IMDb - [open](https://github.com/OlgaChusheva/MovieQuiz-ios.git)
